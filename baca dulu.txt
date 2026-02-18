@@ -1,0 +1,6 @@
+LOGIN SISWA : 
+NO. PENDAFTARA
+NISN
+
+LOGIN ADMIN
+panel_admin/log_in
